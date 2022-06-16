@@ -12,7 +12,7 @@ const About = () => {
           <p className='py-4 text-xl'>
             The Defi protocol system empowers developers, liquidity providers,
             and traders to participate in a financial marketplace that is open
-            and accessible to all.
+            and accessible to all....
           </p>
 
           {/* Card Container */}
